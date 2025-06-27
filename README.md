@@ -1,5 +1,7 @@
 # SQL-injection-python-minihackers
 SQL injection tools by python for restricted purposes.
+
+I cannot upload server-side script. Please edit server-side parameters of yours(base link, columb name, table name, databases...)
 ## installation
 - Python
 
